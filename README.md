@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/fiqihalfito/Advice-generator-app-solution)
+- Live Site URL: [here](https://advice-generator-app-solution.vercel.app/)
 
 ## My process
 
